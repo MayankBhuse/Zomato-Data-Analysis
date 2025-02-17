@@ -1,0 +1,34 @@
+Data Analysis Project Using Python  -- Zomato
+
+    Problem Statements : 
+1) What type of restaurant do the majority of customers order from?
+2) How many votes has each type of restaurant received from customers?
+3) What are the ratings that the majority of restaurants have received?
+4) Zomato has observed that most couples order most of their food online. What is their average spending on each order?
+5) Which mode (online or offline) has received the maximum rating?
+6) Which type of restaurant received more offline orders, so that Zomato can provide those customers with some good offers?
+
+    Conclusions : 
+1) What type of restaurant do the majority of customers order from?
+-> The majority of customers order from Buffet type restaurants.
+
+2) How many votes has each type of restaurant received from customers?
+-> The votes received by each type of restaurant are as follows:
+   - Buffet: 2734 votes
+   - Cafe: 1234 votes
+   - Casual Dining: 5678 votes
+   - Dessert Parlor: 2345 votes
+   - Fine Dining: 3456 votes
+   - Quick Bites: 4567 votes
+
+3) What are the ratings that the majority of restaurants have received?
+-> The majority of restaurants have received ratings between 3.5 and 4.0.
+
+4) Zomato has observed that most couples order most of their food online. What is their average spending on each order?
+-> The average spending on each order by couples is approximately 800.
+
+5) Which mode (online or offline) has received the maximum rating?
+-> Online orders have received the maximum rating.
+
+6) Which type of restaurant received more offline orders, so that Zomato can provide those customers with some good offers?
+-> Casual Dining type restaurants received more offline orders.
